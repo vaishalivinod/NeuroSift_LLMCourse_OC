@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](name_of_your_file_including_the_presentation_slides)**
+**[Slides]((https://github.com/vaishalivinod/NeuroSift_LLMCourse_OC/blob/main/4_Presentation/NeuroSift.pptx)**
