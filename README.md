@@ -1,22 +1,26 @@
-# [Your Project Title Here]
+# NeuroSift: An AI Agent for extracting EEG preprocessing pipelines from scientific literature
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/vaishalivinod/NeuroSift_LLMCourse_OC
 
 ## Description
+NeuroSift is an intelligent question-answering tool designed to extract methodological insights from scientific PDF articles, especially in the neuroscience and biomedical research domain. It allows researchers to upload up to 10 articles at once and ask one or more custom questions related to the study methods. NeuroSift uses a language model (FLAN-T5) to read the PDFs and answer questions in real-time.
+## Key Features
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+- Upload up to 10 scientific PDFs at once
+- Ask multiple customizable questions
+- Uses Google FLAN-T5 for natural language understanding
+- Focused on extracting methods from neuroscience/biomedical articles
+- Answers presented in a clean, searchable table
+- Built using Streamlit and HuggingFace Transformers
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Question Answering
 
-### Results Summary
+<img width="1024" height="1536" alt="3659c09b-ea33-48a8-9318-bb28cd2e69a9" src="https://github.com/user-attachments/assets/cbed4048-41fe-4c91-b5fb-40234123a3d5" />
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
 
 ## Documentation
 
@@ -28,4 +32,4 @@
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/image.png)
