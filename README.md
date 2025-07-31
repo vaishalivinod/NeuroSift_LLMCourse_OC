@@ -32,4 +32,4 @@ Question Answering
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/image.png)
+![Project Cover Image](CoverImage/coverimg.png)
